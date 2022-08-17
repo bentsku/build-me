@@ -1,5 +1,4 @@
 attrs==22.1.0
--e git+https://github.com/bentsku/build-me.git@334a4d75a881b1a7bbdbab6de9d4da6f4fc53a50#egg=build_me
 flake8==4.0.1
 iniconfig==1.1.1
 mccabe==0.6.1
